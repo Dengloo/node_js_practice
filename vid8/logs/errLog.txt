@@ -1,0 +1,14 @@
+20230413	05:02:20	7132c0c3-8910-466c-b8c3-b739a62296e4	Error: Not allowed by CORS
+20230413	15:17:24	a3c40916-6f45-46ee-a183-b301926ed76e	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:45	f5d9482c-a085-47f6-884c-f9a8a9f74c39	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:46	4fa100e1-9499-437c-9e3d-6b2e40feb379	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:55	41452442-9e95-41f1-9914-0a4f4893ec0e	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:56	76e56e06-3ca9-4e29-a9e0-9bdd78f155fc	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:56	5ee2ecfb-6fa3-4194-b895-4c1a6dc6b747	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:56	baf6ece4-4212-4fa9-896b-dfcaf91e64d5	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230414	05:41:09	5357545a-735f-4778-be5b-5538ff4768ca	TypeError: Cannot read properties of undefined (reading 'find')
+20230414	05:41:45	10185e80-6a5e-40e6-8275-5544a09038c7	TypeError: Cannot read properties of undefined (reading 'find')
+20230414	05:42:19	c0a7b2a3-6c32-42e7-a4b6-a0d14773f0e4	TypeError: Cannot read properties of undefined (reading 'find')
+20230414	05:42:20	1833dd02-8cdd-4b7b-adcc-f088ef60703c	TypeError: Cannot read properties of undefined (reading 'find')
+20230414	05:42:55	9dc052cb-f675-484a-b620-5fd6aed31a6b	ReferenceError: employees is not defined
+20230414	15:02:56	371f661c-2300-4329-a72e-e2f104401eed	SyntaxError: Unexpected string in JSON at position 20

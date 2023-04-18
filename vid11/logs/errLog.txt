@@ -1,0 +1,51 @@
+20230413	05:02:20	7132c0c3-8910-466c-b8c3-b739a62296e4	Error: Not allowed by CORS
+20230413	15:17:24	a3c40916-6f45-46ee-a183-b301926ed76e	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:45	f5d9482c-a085-47f6-884c-f9a8a9f74c39	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:46	4fa100e1-9499-437c-9e3d-6b2e40feb379	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:55	41452442-9e95-41f1-9914-0a4f4893ec0e	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:56	76e56e06-3ca9-4e29-a9e0-9bdd78f155fc	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:56	5ee2ecfb-6fa3-4194-b895-4c1a6dc6b747	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230413	15:56:56	baf6ece4-4212-4fa9-896b-dfcaf91e64d5	Error: ENOENT: no such file or directory, stat '/Users/dengis/Documents/Folders/JavaScript/nodejs/vid7/views/,subdir/index.html'
+20230414	05:41:09	5357545a-735f-4778-be5b-5538ff4768ca	TypeError: Cannot read properties of undefined (reading 'find')
+20230414	05:41:45	10185e80-6a5e-40e6-8275-5544a09038c7	TypeError: Cannot read properties of undefined (reading 'find')
+20230414	05:42:19	c0a7b2a3-6c32-42e7-a4b6-a0d14773f0e4	TypeError: Cannot read properties of undefined (reading 'find')
+20230414	05:42:20	1833dd02-8cdd-4b7b-adcc-f088ef60703c	TypeError: Cannot read properties of undefined (reading 'find')
+20230414	05:42:55	9dc052cb-f675-484a-b620-5fd6aed31a6b	ReferenceError: employees is not defined
+20230414	15:02:56	371f661c-2300-4329-a72e-e2f104401eed	SyntaxError: Unexpected string in JSON at position 20
+20230416	04:43:58	ae0ca7c9-251d-471f-b25b-e687fd0648ce	ReferenceError: request is not defined
+20230416	04:44:07	b2b38414-e134-47b0-a07e-e623e6a22640	ReferenceError: request is not defined
+20230416	04:44:08	7de9be01-0458-4d9c-b8a3-52c6da2a7552	ReferenceError: request is not defined
+20230416	04:44:09	a3b2038a-63ff-43e7-9f3e-8794e0a1b4de	ReferenceError: request is not defined
+20230416	04:44:09	6beddd61-03fd-4cda-9aa3-1b2bfb192d22	ReferenceError: request is not defined
+20230416	04:44:09	d1f7aa99-a963-47d5-9587-92d96bec09d1	ReferenceError: request is not defined
+20230416	04:44:09	91a2b830-0e9f-48c3-8138-bc4387278791	ReferenceError: request is not defined
+20230416	04:44:10	fbdbed46-c064-40d7-9fff-123dc0fd8062	ReferenceError: request is not defined
+20230416	04:44:49	1940d07c-5ddc-4ddd-9a1b-63aa4ab359c5	ReferenceError: request is not defined
+20230416	04:44:49	a3593f37-fabb-4598-800b-1e713cf45545	ReferenceError: request is not defined
+20230416	04:44:50	fbc07d35-fa5a-4b7a-8772-31f05115e45b	ReferenceError: request is not defined
+20230416	04:44:50	bc59e47d-a68a-4eb6-8610-fddf83931bd8	ReferenceError: request is not defined
+20230416	04:44:50	8123d4f1-8193-4faf-9b54-bea7ffd8c5cd	ReferenceError: request is not defined
+20230416	04:45:28	a51afd46-4d27-4297-98de-d43b2b35243a	ReferenceError: request is not defined
+20230416	16:45:24	2f8609cc-602f-41fd-91ac-05d38893e9f5	ReferenceError: user is not defined
+20230416	16:45:40	a07b4b77-9282-477a-8950-faccfea43c1d	ReferenceError: user is not defined
+20230416	16:46:10	b6d16ff6-de8f-4ffc-accf-1dd6c15f3b7e	ReferenceError: user is not defined
+20230416	16:46:11	72b7363b-d7b4-48d5-b0b5-e78a06f9c3c0	ReferenceError: user is not defined
+20230416	16:46:11	0b4544fb-f9df-4fd7-8335-ba422b240ade	ReferenceError: user is not defined
+20230416	16:46:11	36538d64-193c-40e1-983d-29829330e5aa	ReferenceError: user is not defined
+20230416	16:46:54	ffe4b4f3-13cc-47fe-b6f4-d1ae909ebb49	ReferenceError: user is not defined
+20230416	16:46:54	d5211d52-3116-41f5-9fc7-39a473974ff0	ReferenceError: user is not defined
+20230416	16:46:55	0e02133a-dabb-4a06-b7a9-239c01fc9ea3	ReferenceError: user is not defined
+20230416	16:46:55	323f4960-aa37-4479-88ec-e81852d9ced2	ReferenceError: user is not defined
+20230416	16:46:55	5f8449d8-85be-44d5-b7cf-fe47b11c0a0c	ReferenceError: user is not defined
+20230416	16:46:55	03473c27-08e3-464c-8054-863462b5a1d4	ReferenceError: user is not defined
+20230416	17:06:56	52de0251-8f8b-4f1c-bcd3-916cb3848b5d	ReferenceError: user is not defined
+20230416	17:06:57	935864a7-9c81-47b5-9a62-4da992595d24	ReferenceError: user is not defined
+20230416	17:06:57	12a600f2-5ada-4500-bf03-cb80eff10a27	ReferenceError: user is not defined
+20230416	17:06:57	87d60f69-2c9c-419a-8428-8ca8b9474b50	ReferenceError: user is not defined
+20230416	17:22:28	46a33013-d76a-4f23-906f-036a7b899f99	ReferenceError: user is not defined
+20230416	17:22:29	895790a3-b9bd-4651-b0a1-f2545ccd0f49	ReferenceError: user is not defined
+20230416	17:22:29	5c13a45f-5a78-4e4f-b8b9-ee5321a66655	ReferenceError: user is not defined
+20230416	17:22:29	4038c927-ed65-44d0-8fdf-5d27d9c75561	ReferenceError: user is not defined
+20230416	17:23:32	64bd5b3b-3920-45e3-9f11-647f2cea7fc2	ReferenceError: user is not defined
+20230416	17:24:07	b4522bd4-4634-4342-a648-9704a588cef6	ReferenceError: user is not defined
+20230416	17:25:24	8ea3087c-e241-4893-bb11-90cc6e036c45	ReferenceError: user is not defined

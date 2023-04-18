@@ -1,0 +1,27 @@
+Port = process.env.PORT || 3500
+
+Port should create a browser instance that returns information about the response
+
+Port listens to http stuff from port 3500
+when you dns to it, you are sending a get request and a url
+
+Port.method
+Port.path
+Port.req
+Port.res
+
+if you are going to use information obtained from the browser you need to use port
+
+const server = http.createServer((req,res) => {
+
+const server = http.createServer((Port.req,
+
+iPort.res) => {
+
+let addition (x,y) {
+	a + b;
+}
+
+addition(4,3)
+
+
